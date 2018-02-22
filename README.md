@@ -1,10 +1,10 @@
 # Awesome jooby
-A curated list of awesome Jooby related stuff.
+A curated list of awesome Jooby related stuff. (Including Japanese)
 
 
 ## Links
 
-[本家サイト](http://jooby.org/)
+[jooby.org](http://jooby.org/)
 
 
 ## Libraries
