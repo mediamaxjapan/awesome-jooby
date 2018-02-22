@@ -9,3 +9,4 @@ A curated list of awesome Jooby related stuff. (Including Japanese)
 
 ## Libraries
 
+[Kotlin module](http://jooby.org/doc/lang-kotlin/)
