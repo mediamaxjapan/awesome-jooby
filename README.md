@@ -6,6 +6,7 @@ A curated list of awesome Jooby related stuff. (Including Japanese)
 
 [jooby.org](http://jooby.org/)  
 [kotlin-starter](https://github.com/jooby-project/kotlin-starter)
+[Quickstart/Getting started](http://jooby.org/quickstart/)
 
 
 ## Libraries
